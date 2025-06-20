@@ -61,5 +61,5 @@ This project is built using:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Dharamraj82/ai-power-code-reviewer.git
-cd ai-power-code-reviewer
+git clone https://github.com/Dharamraj82/Ai-Power-Code-Review-FRONTEND.git
+cd ai-power-code-reviewer-frontend
