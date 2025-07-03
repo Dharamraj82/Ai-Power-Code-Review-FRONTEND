@@ -69,7 +69,7 @@ const StyledWrapper = styled.div`
     width: 20px;
     height: 4px;
     border-radius: 50%;
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(0, 0, 255, 0.9);
     position: absolute;
     top: 62px;
     transform-origin: 50%;
